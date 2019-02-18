@@ -1,0 +1,20 @@
+table {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+
+
+.mat-cell {
+  * {
+    color: white;
+    font-size: 14px;
+    text-decoration: none;
+  }
+  &.link {
+    cursor: pointer;
+  }
+}
